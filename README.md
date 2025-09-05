@@ -1,0 +1,1 @@
+# This Project is to create a simple contact book application to store contact numbers with names using Dictonories in Python, This is th basic functionality in future I will develope front end ui and will add database connectivity as well.
